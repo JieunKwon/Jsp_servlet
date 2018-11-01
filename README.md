@@ -19,4 +19,6 @@
 
     - index.jsp : the first page for the browser 
     
+    - ServletController.java : request from index.jsp
+    
     - 
