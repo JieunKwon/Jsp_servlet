@@ -21,4 +21,6 @@
     
     - ServletController.java : request from index.jsp
     
-    - 
+    - Login.java : class file for login data structure 
+    
+    - LoginResult.jsp : view for login result 
