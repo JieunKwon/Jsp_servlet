@@ -1,11 +1,22 @@
 # Jsp_servlet
 
-The project objective : Understanding and implementing MVC 
+@ Oct 2018
 
->> MVC 
+- The project objective : Understanding and implementing MVC 
 
-    - View : Login.jsp 
+
+
+> MVC 
+
+    - View : index.jsp, Login.jsp 
     
     - Model : Java Bean
     
     - Controller : Servlet
+    
+    
+> Files 
+
+    - index.jsp : the first page for the browser 
+    
+    - 
