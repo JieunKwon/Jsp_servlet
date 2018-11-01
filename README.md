@@ -2,6 +2,7 @@
 
 The project objective : Understanding and implementing MVC 
 
->> View : Login.jsp 
->> Model : Java Bean
->> Controller : Servlet
+>> MVC 
+    - View : Login.jsp 
+    - Model : Java Bean
+    - Controller : Servlet
