@@ -19,15 +19,13 @@ body, table{
 
 	<form method="POST" action="ServletController">
 	
-	User Name: <input type="text" name="username" id="username" value="" maxlength="30" class="box_general">
-	<br>
-	User PW: <input type="password" name="userpw" id="userpw" value="" maxlength="30" class="box_general">
-				
+		User Name: <input type="text" name="username" id="username" value="" maxlength="30" class="box_general">
+		<br>
+		User PW: <input type="password" name="userpw" id="userpw" value="" maxlength="30" class="box_general">
+		<br><br>
 			
-	<br><br><input type="submit" value="submit">
+		<input type="submit" value="submit">
 			
-	</form>
-	
-	
+	</form> 
 </body>
 </html>
